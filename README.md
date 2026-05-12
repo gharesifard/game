@@ -1,1 +1,1 @@
-game/index.html
+https://gharesifard.github.io/game/index.html
