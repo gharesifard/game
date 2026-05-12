@@ -1,1 +1,1 @@
-Read me
+game/index.html
